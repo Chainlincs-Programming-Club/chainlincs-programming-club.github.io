@@ -1,4 +1,4 @@
-# [Chainlincs Programming Club Unofficail Website](chainlincs-programming-club.github.io)
+# [Chainlincs Programming Club Unofficial Website](chainlincs-programming-club.github.io)
 #### The Unofficial Website For Displaying all games made by *Chainlincs Programming Club*
 
 ## Here's All The Games We've Created
